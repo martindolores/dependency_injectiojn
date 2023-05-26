@@ -1,0 +1,14 @@
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.exe
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.deps.json
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.json
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.runtimeconfig.dev.json
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\bin\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.AssemblyReference.cache
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfoInputs.cache
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.AssemblyInfo.cs
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.csproj.CoreCompileInputs.cache
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.dll
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.pdb
+D:\Documents\Study\Deakin\2023\T1\Object-Oriented Development\OnTrack\1.3D\Dependency Injection\DependencyInjection\obj\Debug\netcoreapp3.1\DependencyInjection.genruntimeconfig.cache
